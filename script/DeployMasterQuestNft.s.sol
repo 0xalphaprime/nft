@@ -3,7 +3,7 @@
 pragma solidity ^0.8.18;
 
 import {Script} from "forge-std/Script.sol";
-import {MasterQuestNFT} from "../src/MasterQuestNFT.sol";
+import {MasterQuestNFT} from "../src/MasterQuestNft.sol";
 
 contract DeployMasterQuestNft is Script {
     function run() external returns (MasterQuestNFT) {
