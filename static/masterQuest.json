@@ -1,0 +1,12 @@
+{
+    "name": "masterQuest",
+    "description": "onward",
+    "image": "ipfs://QmSzpeiwqiKz7heVTmysRBNQS1KSKi6RBNMYckJS2LqgiL",
+    "attributes": [
+        {
+            "trait_type": "curiosity",
+            "value": "100"
+        }
+    ]
+
+}
